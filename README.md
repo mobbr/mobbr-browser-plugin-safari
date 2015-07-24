@@ -1,4 +1,5 @@
-# mobbr-browser-plugin-firefox
+# mobbr-browser-plugin-safari
+
 The 'external button'. Opens the same lightbox as the on-site Mobbr button. 
 
 # How to contribute?
